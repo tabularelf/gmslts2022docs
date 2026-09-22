@@ -1,7 +1,7 @@
 # gmslts2022docs
 
 ## Note
-This is purely a rehost of the LTS 2022 docs in its current form, from a long time ago. The main manual repo is here if you want to update the **latest** GameMaker manual (not LTS 2022).
+This is purely a rehost of the LTS 2022 docs in its current form, in its latest form. The main manual repo is here if you want to update the **latest** GameMaker manual (not LTS 2022).
 https://github.com/YoYoGames/GameMaker-Manual. All rights reserved to YoYoGames. 
 Please do not bug them about fixing the LTS 2022 documentation from this repository. Any/all fixes shall be submitted to the repository as a PR.
 
